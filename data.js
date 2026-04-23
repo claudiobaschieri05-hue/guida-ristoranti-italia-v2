@@ -1,6 +1,6 @@
 /* Generato automaticamente - 500 Locali Reali/Misti */
 
-const ristoranti = [
+var ristoranti = [
   {
     "id": 1,
     "name": "Ristorante Cracco Roma",
